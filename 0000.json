@@ -1,0 +1,23 @@
+{
+  "name": "Hand Made",
+  "symbol": "HMADE",
+  "description": "This is a handmade photo.",
+  "image": "https://raw.githubusercontent.com/Roazpull/roap_data/main/0000.png",
+  "external_url": "https://pictures.handmade.co.uk",
+  "extensions": {
+    "discord": "",
+    "twitter": "",
+    "vault": "",
+    "website": "https://pictures.handmade.co.uk"
+  },
+  "attributes": [
+    {
+      "trait_type": "Height",
+      "value": "320"
+    },
+    {
+      "trait_type": "Width",
+      "value": "320"
+    }
+  ]
+}
